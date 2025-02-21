@@ -1,4 +1,4 @@
-# Hi there, I'm ANdrey Krasilnikov! 👋
+# Hi there, I'm Andrey Krasilnikov! 👋
 
 I'm a passionate software developer and educator with a keen interest in open-source projects and cutting-edge technologies. Welcome to my GitHub profile!
 
