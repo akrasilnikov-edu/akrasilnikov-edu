@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm ANdrey Krasilnikov! 👋
 
-<!--
-**akrasilnikov-edu/akrasilnikov-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer and educator with a keen interest in open-source projects and cutting-edge technologies. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various educational projects to help students and developers enhance their coding skills.
+- 🌱 I’m constantly learning and exploring new technologies in the world of software development.
+- 👯 I’m looking to collaborate on open-source projects, especially those that focus on education and community building.
+- 💬 Ask me about JavaScript, Python, or any other tech-related topics!
+- 📫 How to reach me: [akrasilnikov@example.com](mailto:akrasilnikov@example.com)
+- ⚡ Fun fact: I love hiking and photography in my free time.
+
+## My Skills
+
+- **Languages:** Python, Java, C++
+- **Frameworks:** Flask, Spring, Qt 
+- **Tools:** Git, Docker, Kubernetes, CI/CD
+- **Cloud:** AWS, Azure, Google Cloud
+
+## GitHub Stats
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrasilnikov-edu&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akrasilnikov-edu&layout=compact&theme=radical)
+
+## Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/akrasilnikov-edu)
+- [Twitter](https://twitter.com/akrasilnikov_edu)
+
+Feel free to explore my repositories and contribute to any projects that interest you. Happy coding!
