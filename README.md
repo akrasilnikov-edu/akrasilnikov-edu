@@ -6,10 +6,10 @@ I'm a passionate software developer and educator with a keen interest in open-so
 
 - 🔭 I’m currently working on various educational projects to help students and developers enhance their coding skills.
 - 🌱 I’m constantly learning and exploring new technologies in the world of software development.
-- 👯 I’m looking to collaborate on open-source projects, especially those that focus on education and community building.
-- 💬 Ask me about JavaScript, Python, or any other tech-related topics!
+- 👯 I’m looking 
+- 💬 Ask me about Python, or any other tech-related topics!
 - 📫 How to reach me: [akrasilnikov@example.com](mailto:akrasilnikov@example.com)
-- ⚡ Fun fact: I love hiking and photography in my free time.
+- ⚡ Fun fact: 
 
 ## My Skills
 
@@ -20,7 +20,7 @@ I'm a passionate software developer and educator with a keen interest in open-so
 
 ## GitHub Stats
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrasilnikov-edu&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akrasilnikov-edu&show_icons=true&theme=radical)
 
 ## Top Languages
 
